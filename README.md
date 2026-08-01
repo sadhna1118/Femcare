@@ -13,7 +13,7 @@
   <h3>Revolutionizing women's health with Real-Time AI, Phase-Synced Communities, and Privacy-First Tracking.</h3>
   
   <!-- 🚀 APP DOWNLOAD BUTTON -->
-  <a href="https://example.com/path/to/your/femcare-release.apk">
+  <a href="https://github.com/sadhna1118/Femcare/releases/download/v1.0/Femcare-v1.0.apk">
     <img src="https://img.shields.io/badge/📲_DOWNLOAD_APP_FOR_ANDROID-F33B79?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
   <p><i>*Click above to download and install the app instantly!*</i></p>

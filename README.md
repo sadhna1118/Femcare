@@ -10,6 +10,11 @@
 <br>
 
 <div align="center">
+  <h3>Scan to Download App Directly!</h3>
+  <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/app-qr.png" width="200">
+</div>
+
+<div align="center">
   <h3>Revolutionizing women's health with Real-Time AI, Phase-Synced Communities, and Privacy-First Tracking.</h3>
   
   <!-- 🚀 APP DOWNLOAD BUTTON -->

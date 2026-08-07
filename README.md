@@ -17,9 +17,9 @@
 <div align="center">
   <h3>Revolutionizing women's health with Real-Time AI, Phase-Synced Communities, and Privacy-First Tracking.</h3>
   
-  <!-- 🚀 APP DOWNLOAD BUTTON -->
-  <a href="https://github.com/sadhna1118/Femcare/releases/download/v1.0/Femcare-v1.0.apk">
-    <img src="https://img.shields.io/badge/📲_DOWNLOAD_APP_FOR_ANDROID-F33B79?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  <!-- 🚀 PERFECTLY WORKING APP DOWNLOAD BUTTON -->
+  <a href="https://github.com/sadhna1118/Femcare/releases/download/v1.0/Femcare-v1.0.apk" target="_blank">
+    <img src="https://img.shields.io/badge/📲_DOWNLOAD_APP_FOR_ANDROID-F33B79?style=for-the-badge&logo=android&logoColor=white&scale=1.5" alt="Download APK" />
   </a>
   <p><i>Click above to download and install the app instantly!</i></p>
 </div>
@@ -30,50 +30,53 @@
 
 **Fem-care** is not just another period tracker; it is a personalized, emotionally intelligent female health ecosystem. Built with a supportive "BFF" (Best Friend Forever) AI persona powered by **Gemini 3.5 Flash-Lite**, it guides users through their menstrual cycles, offers real-time emotional support, tracks health metrics, and connects them with a community of women experiencing the exact same hormonal phase.
 
-Whether it's logging daily symptoms, generating professional medical reports with visual analytics, or getting quick SOS relief for cramps, Fem-care handles it all seamlessly.
+Whether it's logging daily symptoms, switching seamlessly between Period and Pregnancy modes, or syncing data directly from your smartwatch, Fem-care handles it all natively with zero lag.
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features (Latest Updates)
 
-### 🤖 1. Real-Time "BFF" AI Companion
-*   **Empathetic Persona:** The AI acts as a caring best friend, speaking in a warm Hinglish tone.
-*   **Gemini 3.5 Flash-Lite Powered:** Utilizes Google's fast and cost-efficient Gemini 3.5 Flash-Lite model for lightning-fast, intelligent responses.
+### 🌍 1. Instant Trilingual Engine
+*   **Zero-Lag Translation:** Switch the entire app's language (English, Hindi, Bhojpuri) in milliseconds.
+*   **Comprehensive Coverage:** Automatically translates AI Tips of the Day, Articles, Blogs, Menu Tabs, and UI components without needing an active API call.
+
+### 🤖 2. Real-Time "BFF" AI Companion
+*   **Empathetic Persona:** The AI acts as a caring best friend, adapting its advice based on your current cycle day or pregnancy week.
 *   **Highly Personalized:** Users can choose how the AI addresses them (Respectful *'Aap'* or Casual *'Tum'*).
-*   **Context-Aware:** The AI knows exactly which day of the cycle the user is on and tailors its advice accordingly.
-*   **Voice Integration:** Supports Hands-free Voice Input (Speech-to-Text) and natural Voice Output (Text-to-Speech) with Smart Mute controls.
-*   **Real-Time Typing:** Implements a custom chunk-rendering algorithm for a smooth, natural real-time typing effect.
+*   **Voice Integration:** Supports hands-free Voice Input (Speech-to-Text) and natural Voice Output (Text-to-Speech).
 
-### 🩸 2. Smart Cycle & Symptom Tracking
-*   **Interactive Calendar:** Visual indicators for Menstrual, Follicular, Ovulation, and Luteal phases.
-*   **Daily Task Logger:** Add and check off custom daily tasks or symptoms (saved permanently on local storage).
+### 🩸 3. Smart Cycle & Pregnancy Tracking
+*   **Dual Mode:** Switch instantly between regular Cycle Tracking and Pregnancy Tracking.
+*   **Dynamic UI:** In Pregnancy Mode, track weekly progress with dynamic baby size emojis (🌱 to 🍉) and automatically calculate the Estimated Due Date (EDD).
 *   **Discreet Mode:** A single toggle to hide sensitive calendar data for privacy in public spaces.
 
-### 🫂 3. Phase-Synced Community Circles
+### ⌚ 4. Wearable & Google Fit Integration
+*   **Bluetooth Sync:** Scan and connect your smartwatch directly from the app.
+*   **Real-Time Data:** Syncs Live BPM (Heart Rate), Daily Steps, and Sleep Data natively to calculate your overall daily Health Score.
+
+### 🔔 5. Interactive Action Notifications
+*   **Smart Reminders:** Hydration and Pad Change reminders trigger system notifications with actionable buttons (e.g., click "💧 Drink Water" in the notification to automatically update the in-app tracker).
+*   **In-App Notification Center:** A dedicated panel to review missed alerts and community updates.
+
+### 🫂 6. Phase-Synced Community Circles
 *   **Algorithmic Matchmaking:** Users only see live posts from other women who are currently in the **exact same cycle phase**.
-*   **Engage & Support:** Send virtual "Hugs" (likes) and reply with comments to build a safe, supportive network.
+*   **Engage & Support:** Send virtual "Hugs" (likes) and reply with nested comments to build a safe, supportive network.
 
-### 📄 4. Professional Medical Report Generation
-*   **One-Click PDF Export:** Generates a structured, professional medical report locally on the device.
-*   **Visual Analytics:** Includes beautifully rendered custom Bar Graphs and Phase Distribution charts right inside the PDF, making it perfect for doctor consultations.
+### 📄 7. Dynamic Medical Report Generation
+*   **One-Click PDF Export:** Generates a structured, professional medical report locally.
+*   **Contextual Analytics:** Produces custom visual Bar Graphs showing either Phase Distribution (for periods) or Trimester Progress (for pregnancy), perfect for doctor consultations.
 
-### 🚨 5. SOS & Quick Relief Menu
-*   **4-7-8 Breathing Visualizer:** A fully animated, step-by-step breathing exercise screen for instant anxiety/pain relief.
-*   **Smart Push Notifications:** Set local device alarms for Pad Changes and Hydration (Water Tracker) directly from the dashboard.
-*   **Music Therapy:** Integrated audio player offering mood-based relaxing frequencies (Cramps, Happy, Irritated, Sad).
-
-### 🔒 6. Security & Customization
-*   **Biometric Unlock:** Secure the app using Fingerprint/FaceID via Local Authentication.
-*   **Theming:** Dynamic Dark/Light modes and custom color palettes (Purple, Ocean, Mint).
+### 🚨 8. SOS & Emergency Relief
+*   **Real-Time Tracking:** Instantly share your live GPS location via WhatsApp or SMS to saved emergency contacts.
+*   **Nearby Utilities:** Find nearby hospitals, medical shops, and bus stops with a single tap.
 
 ---
 
-## 📸 Screenshots / App Preview
+## 📸 Complete App Overview
 
-| Home Dashboard | AI BFF Chat | Medical Report (PDF) | Community Circle | Profile | Report screen | Calendar |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/home.png" width="200"> | <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/chat.png" width="200"> | <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/reports.png" width="200"> | <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/circle.png" width="200"> | <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/profile.png" width="200"> | <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/reports-screen.png" width="200"> | <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/calendar.png" width="200"> |
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sadhna1118/Femcare/refs/heads/main/images/femcare-ss.png" alt="FemCare Complete App Flow" width="100%">
+</div>
 
 ---
 <div align="center">
